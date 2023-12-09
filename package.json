@@ -1,0 +1,15 @@
+{
+  "name": "realworld-starter-kit",
+  "version": "1.0.0",
+  "description": "> ### [YOUR_FRAMEWORK] codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
